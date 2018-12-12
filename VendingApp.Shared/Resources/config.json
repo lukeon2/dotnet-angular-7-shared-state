@@ -1,0 +1,9 @@
+{
+  "language": "English",
+  "inventory_currency": "USD",
+  "supported_currencies": [
+    "USD",
+    "EUR",
+    "SEK"
+  ]
+}

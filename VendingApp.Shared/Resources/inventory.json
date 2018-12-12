@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Cadbury Fabulous Fingers",
+    "quantity": 10,
+    "price": "10.26"
+  },
+  {
+    "name": "Curly Wurly",
+    "quantity": 10,
+    "price": "1.83"
+  },
+  {
+    "name": "Crispello Double Choc",
+    "quantity": 10,
+    "price": "5.57"
+  },
+  {
+    "name": "Dairy Milk Oreo",
+    "quantity": 10,
+    "price": "4.70"
+  },
+  {
+    "name": "Chocolate Mini Rolls",
+    "quantity": 10,
+    "price": "4.41"
+  },
+  {
+    "name": "Marvellous Mixups Maynards",
+    "quantity": 10,
+    "price": "4.96"
+  },
+  {
+    "name": "Snack Shortcake",
+    "quantity": 10,
+    "price": "4.61"
+  },
+  {
+    "name": "Crispello Vanilla Velvet",
+    "quantity": 10,
+    "price": "6.94"
+  },
+  {
+    "name": "Heroes",
+    "quantity": 10,
+    "price": "1.79"
+  },
+  {
+    "name": "Picnic",
+    "quantity": 10,
+    "price": "1.45"
+  },
+  {
+    "name": "Cadbury Animals",
+    "quantity": 10,
+    "price": "5.16"
+  },
+  {
+    "name": "Marvellous Creations; Cola Pretzel Honeycomb",
+    "quantity": 10,
+    "price": "11.34"
+  },
+  {
+    "name": "Caramel Cake Bar",
+    "quantity": 10,
+    "price": "10.58"
+  },
+  {
+    "name": "Wispa",
+    "quantity": 10,
+    "price": "3.75"
+  },
+  {
+    "name": "Creme Egg",
+    "quantity": 10,
+    "price": "7.42"
+  },
+  {
+    "name": "Amaze Bites",
+    "quantity": 10,
+    "price": "10.67"
+  },
+  {
+    "name": "Cadbury Eclairs",
+    "quantity": 10,
+    "price": "6.46"
+  },
+  {
+    "name": "Dairy Milk",
+    "quantity": 10,
+    "price": "9.96"
+  },
+  {
+    "name": "Bournville",
+    "quantity": 10,
+    "price": "8.16"
+  },
+  {
+    "name": "Daim",
+    "quantity": 10,
+    "price": "7.36"
+  },
+  {
+    "name": "Chomp",
+    "quantity": 10,
+    "price": "8.98"
+  },
+  {
+    "name": "Boost",
+    "quantity": 10,
+    "price": "3.59"
+  },
+  {
+    "name": "Milk Tray",
+    "quantity": 10,
+    "price": "2.61"
+  },
+  {
+    "name": "Caramel Nibbles",
+    "quantity": 10,
+    "price": "11.94"
+  },
+  {
+    "name": "Dairy Milk Turkish",
+    "quantity": 10,
+    "price": "2.58"
+  },
+  {
+    "name": "Cadbury Roses",
+    "quantity": 10,
+    "price": "11.56"
+  },
+  {
+    "name": "Wispa Gold",
+    "quantity": 10,
+    "price": "1.07"
+  },
+  {
+    "name": "Fudge",
+    "quantity": 10,
+    "price": "5.64"
+  },
+  {
+    "name": "Freddo Caramel",
+    "quantity": 10,
+    "price": "6.87"
+  },
+  {
+    "name": "Freddo",
+    "quantity": 10,
+    "price": "8.05"
+  },
+  {
+    "name": "Freddo Faces",
+    "quantity": 10,
+    "price": "5.78"
+  },
+  {
+    "name": "Cadbury Mini Egg Cake",
+    "quantity": 10,
+    "price": "9.64"
+  },
+  {
+    "name": "Starbar",
+    "quantity": 10,
+    "price": "2.27"
+  },
+  {
+    "name": "Timeout",
+    "quantity": 10,
+    "price": "8.31"
+  },
+  {
+    "name": "Cadbury Crunchie Biscuits",
+    "quantity": 10,
+    "price": "2.27"
+  },
+  {
+    "name": "Twirl",
+    "quantity": 10,
+    "price": "10.63"
+  },
+  {
+    "name": "Dairy Milk Buttons",
+    "quantity": 10,
+    "price": "7.13"
+  },
+  {
+    "name": "Cadbury Drinking Chocolate",
+    "quantity": 10,
+    "price": "10.78"
+  },
+  {
+    "name": "Double Decker",
+    "quantity": 10,
+    "price": "7.16"
+  },
+  {
+    "name": "Chocos",
+    "quantity": 10,
+    "price": "7.83"
+  },
+  {
+    "name": "Dairy Milk Ice Cream",
+    "quantity": 10,
+    "price": "6.57"
+  },
+  {
+    "name": "Ritz",
+    "quantity": 10,
+    "price": "4.92"
+  },
+  {
+    "name": "Bubbles Of Joy",
+    "quantity": 10,
+    "price": "10.69"
+  },
+  {
+    "name": "Cadbury Popcorn",
+    "quantity": 10,
+    "price": "1.38"
+  },
+  {
+    "name": "Cadbury Pretzels",
+    "quantity": 10,
+    "price": "5.07"
+  },
+  {
+    "name": "Cadbury Caramel Doughnut",
+    "quantity": 10,
+    "price": "7.01"
+  },
+  {
+    "name": "Puddles Hazelnut",
+    "quantity": 10,
+    "price": "6.00"
+  },
+  {
+    "name": "Brunch Chocolate Chip",
+    "quantity": 10,
+    "price": "5.86"
+  },
+  {
+    "name": "Pots Of Joy",
+    "quantity": 10,
+    "price": "4.92"
+  },
+  {
+    "name": "Creme Egg Twisted",
+    "quantity": 10,
+    "price": "3.77"
+  }
+]

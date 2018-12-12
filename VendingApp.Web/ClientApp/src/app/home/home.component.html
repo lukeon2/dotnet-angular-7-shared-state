@@ -1,0 +1,61 @@
+<div class="row">
+  <h1>Welcome to Vending Machine</h1>
+  <p>Please select product and put coins into slot</p>
+</div>
+
+  <div class="row" style="margin-bottom: 10px;">
+    <div class="col-sm-3" >
+      <div class="card" style="background-color: coral">
+        <div class="card-body">
+          <h5 class="card-title">Product: {{selectedInventory.name}} {{ selectedInventory.price }} </h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-3">
+      <div class="card" style="background-color: goldenrod">
+        <div class="card-body">
+          
+          <h5 class="card-title">Insert coin: <input type="number" name="coinInput" [(ngModel)]="coinInput" (change)="setTwoNumberDecimal($event)"/>
+            <a href="javascript:;" class="btn btn-primary" (click)="insertCoin()">INSERT</a>
+          </h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-3">
+      <div class="card" style="background-color: goldenrod">
+        <div class="card-body">
+          <h5 class="card-title">Your credits: {{ coinsInSlot }}
+            <a href="javascript:;" class="btn btn-primary" (click)="cancelPurchase()">CANCEL</a>
+          </h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-3">
+      <div class="card" style="background-color: darkseagreen">
+        <div class="card-body">
+          <h5 class="card-title">Currency:
+            <select [(ngModel)]="currency">
+              <option *ngFor="let item of allCurrencies" [value]="item">{{item}}</option>
+            </select>
+            <a href="javascript:;" class="btn btn-primary" (click)="setCurrency()">Set currency</a>
+          </h5>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h3 *ngIf="!inventories"><em>Loading...</em></h3>
+
+  <div class="row" *ngIf="inventories">
+
+    <div *ngFor="let inventory of inventories; let i=index" class="col-sm-1">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">{{ inventory.productNr }} - {{ inventory.name }}</h5>
+          <p class="card-text">Avaliable amount: {{ inventory.quantity }}</p>
+          <p class="card-text">Price: {{ inventory.priceByRate }}</p>
+          <a href="#" class="btn btn-primary" (click)="selectProduct(inventory)" [attr.disabled]="inventory.quantity === 0">Select</a>
+        </div>
+      </div>
+    </div>
+  </div>
