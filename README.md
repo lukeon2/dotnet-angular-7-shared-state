@@ -1,5 +1,5 @@
 # ASP.NET Core + Angular 7 sample application
-This sample focuses on sharing data and state between Web app and console app. It's simulator of vending machine where user can insert coins and can buy products.
+This sample focuses on sharing data and state between Web app and console app. It's simulator of vending machine where user can insert coins and buy products.
 
 ## About
 - There are 2 startup projects (Console and Web) + Test project + shared library.
