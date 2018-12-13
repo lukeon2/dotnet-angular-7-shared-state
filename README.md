@@ -18,7 +18,8 @@ After cloning or downloading the sample it should be possible to run it.
 The first time it will seed database with data such that you should see products, and you should be to interact with console or web app.
 
 ### How console app looks:
-![Console app screen](https://i.imgur.com/lrfubvk.png)
+![Console app screen](https://i.imgur.com/5rsFsi1.png)
+
 
 ### Web app:
-![Web app screen](https://i.imgur.com/5rsFsi1.png)
+![Web app screen](https://i.imgur.com/lrfubvk.png)
